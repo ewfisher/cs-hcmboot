@@ -1,6 +1,6 @@
 ########################################################################################################################
 #!!
-#! @description: Generated Python operation description 2.
+#! @description: Generated Python operation description.
 #!
 #! @input url: Generated description
 #! @input input_2: Generated description
